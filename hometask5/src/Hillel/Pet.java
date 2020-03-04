@@ -1,7 +1,7 @@
 package Hillel;
 
 public class Pet extends Animal{
-    String name;
+    private String name;
     private boolean isVaccinated;
 
 
