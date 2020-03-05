@@ -7,6 +7,6 @@ public class Dog extends Pet {
 
     @Override
     public void voice(){
-        System.out.println("Hello, my name is " + name + "Woof");
+        System.out.println("Hello, my name is " + getName() + "Woof");
     }
 }
