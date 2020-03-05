@@ -7,6 +7,6 @@ public class Hamster extends Pet implements IAnimal {
 
     @Override
     public void voice(){
-        System.out.println("Hello, my name is " + name);
+        System.out.println("Hello, my name is " + getName());
     }
 }

@@ -7,6 +7,6 @@ public class Cat extends Pet implements IAnimal {
 
     @Override
     public void voice(){
-        System.out.println("Hello, my name is " + name + ", Meow");
+        System.out.println("Hello, my name is " + getName() + ", Meow");
     }
 }
