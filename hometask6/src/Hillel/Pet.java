@@ -1,6 +1,6 @@
-package Hillel;
+package hometask6.src.Hillel;
 
-public  abstract class Pet extends Animal{
+public  abstract class Pet extends Animals{
     private String name;
     private boolean Vaccinated = true;
 

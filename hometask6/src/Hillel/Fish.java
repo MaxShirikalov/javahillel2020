@@ -1,4 +1,4 @@
-package Hillel;
+package hometask6.src.Hillel;
 
 public class Fish extends Pet implements IAnimal{
     public Fish(int id, int age, float weight, String color, String name, boolean Vaccinated) {

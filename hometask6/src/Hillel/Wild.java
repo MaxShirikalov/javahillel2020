@@ -1,6 +1,6 @@
-package Hillel;
+package hometask6.src.Hillel;
 
-public abstract class Wild extends Animal {
+public abstract class Wild extends Animals {
     private boolean Predator = false;
 
     public Wild(int id, int age, float weight, String color, boolean Predator) {

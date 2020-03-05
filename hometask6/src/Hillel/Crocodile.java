@@ -1,4 +1,4 @@
-package Hillel;
+package hometask6.src.Hillel;
 
 public class Crocodile extends Wild implements IAnimal{
     public Crocodile(int id, int age, float weight, String color, boolean Predator) {

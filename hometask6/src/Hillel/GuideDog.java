@@ -1,4 +1,4 @@
-package Hillel;
+package hometask6.src.Hillel;
 
 
 public class GuideDog extends Pet implements IAnimal {

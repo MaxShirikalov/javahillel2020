@@ -1,4 +1,4 @@
-package Hillel;
+package hometask3.src.Hillel;
 
 import java.util.Arrays;
 import java.util.Scanner;

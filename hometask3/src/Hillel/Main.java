@@ -1,4 +1,4 @@
-package Hillel;
+package hometask3.src.Hillel;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
