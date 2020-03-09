@@ -13,5 +13,9 @@ public class Main {
         cat.voice();
         GuideDog guideDog1 = new GuideDog(5, 45,60,"yellow", "Gerta", true, false);
         guideDog1.voice();
+        GuideDog guideDog2 = new GuideDog(5, 14,46,"black", "Kim", true, false);
+        guideDog2.voice();
+        guideDog2.doBackFlip();
+        guideDog.doBackFlip();
     }
 }
