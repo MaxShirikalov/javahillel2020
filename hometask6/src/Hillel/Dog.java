@@ -1,6 +1,6 @@
 package hometask6.src.Hillel;
 
-public class Dog extends Pet implements IAnimal {
+public class Dog extends Pet implements voice {
     public Dog(int id, int age, float weight, String color, String name, boolean Vaccinated) {
         super(id, age, weight, color, name, Vaccinated);
     }

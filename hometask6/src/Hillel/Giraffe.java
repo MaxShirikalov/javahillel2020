@@ -1,6 +1,6 @@
 package hometask6.src.Hillel;
 
-public class Giraffe extends Wild implements IAnimal {
+public class Giraffe extends Wild implements voice {
     public Giraffe(int id, int age, float weight, String color, boolean Predator) {
         super(id, age, weight, color, Predator);
     }

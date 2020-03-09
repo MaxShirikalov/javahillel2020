@@ -1,6 +1,6 @@
 package hometask6.src.Hillel;
 
-public class Hamster extends Pet implements IAnimal {
+public class Hamster extends Pet implements voice {
     public Hamster(int id, int age, float weight, String color, String name, boolean Vaccinated) {
         super(id, age, weight, color, name, Vaccinated);
     }

@@ -1,6 +1,6 @@
 package hometask6.src.Hillel;
 
-public class Lion extends Wild implements IAnimal{
+public class Lion extends Wild implements voice{
     public Lion(int id, int age, float weight, String color, boolean Predator) {
         super(id, age, weight, color, Predator);
     }
